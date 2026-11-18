@@ -1,0 +1,9 @@
+{
+  "name": "nuvora-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nuvora.webdev premium bilingual static website",
+  "scripts": {
+    "serve": "python3 -m http.server 3000"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Nuvora.webdev",
+  "short_name": "Nuvora",
+  "description": "Professional website design and development for growing businesses.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "icons": [{ "src": "/assets/images/nuvora-mark.png", "sizes": "2056x2056", "type": "image/png", "purpose": "any maskable" }]
+}

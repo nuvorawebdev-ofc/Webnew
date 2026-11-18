@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you/
+Disallow: /en/thank-you/
+
+Sitemap: https://nuvorawebdev.site/sitemap.xml
